@@ -1,0 +1,34 @@
+.bagian-atas {
+  padding-top: 8rem;
+  background-color: #c8d9e5;
+}
+
+.bagian-about {
+  padding-top: 8rem;
+  background-color: #ecf4f9;
+}
+
+.bagian-skills {
+  padding-top: 8rem;
+  padding-top: 6rem;
+}
+
+#projects {
+  padding-top: 8rem;
+  background-color: #ced7dc;
+}
+
+.bagian-contacts {
+  padding-top: 8rem;
+  padding-top: 6rem;
+  background-color: #ecf4f9;
+}
+
+.bg-myColor {
+  background-color: #c8d9e5;
+}
+
+.navStyle {
+  text-decoration: none;
+  color: "white";
+}
